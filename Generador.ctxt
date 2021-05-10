@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Generador
+comment1.params=n
+comment1.target=java.lang.String\ Generador1(int)
+comment2.params=c
+comment2.target=java.lang.String\ registrar(int)
+comment3.params=n
+comment3.target=java.lang.String\ padovan(int)
+numComments=4
